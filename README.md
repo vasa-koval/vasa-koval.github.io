@@ -1,2 +1,2 @@
-# vasa-koval.github.io
+# Beval Games
 Beval Games Official Website
