@@ -1,2 +1,2 @@
 # Beval Games
-Beval Games Official Website
+Beval Games Website
